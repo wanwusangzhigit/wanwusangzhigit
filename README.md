@@ -55,13 +55,3 @@
 
 <!-- GitHub Activity Graph -->
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=wanwusangzhigit&theme=xcode" /></div>
-
-# 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-
-<!-- plugin metrics -->
-<div align="center">
-  <img src="https://cdn1.tianli0.top/gh/wanwusangzhigit/wanwusangzhigit@main/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
-  <img src="https://cdn.cbd.int/anzhiyu-assets/image/common/github-info/rocket-banner.jpg"/>
-</div>
-
-![Metrics](https://metrics.lecoq.io/wanwusangzhigit?template=classic&isocalendar=1&languages=1&stargazers=1&lines=1&topics=1&stars=1&habits=1&calendar=1&achievements=1&traffic=1&code=1&projects=1&introduction=1&rss=1&posts=1&pagespeed=1&screenshot=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.ignored=html&languages.limit=15&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&topics=false&topics.mode=starred&topics.sort=stars&topics.limit=15&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&calendar=false&calendar.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&traffic=false&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&projects=false&projects.limit=4&projects.descriptions=false&introduction=false&introduction.title=true&pagespeed=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=true&pagespeed.pwa=false&posts=false&posts.user=.user.login&posts.descriptions=false&posts.covers=false&posts.limit=4&rss=false&rss.limit=4&screenshot=false&screenshot.title=Screenshot&screenshot.url=https%3A%2F%2Fwww.rusin.lol&screenshot.selector=body&screenshot.mode=image&screenshot.viewport=%7B%0A%20%20%22width%22%3A%201280%2C%0A%20%20%22height%22%3A%201280%0A%7D%0A&screenshot.wait=0&screenshot.background=true&config.timezone=Asia%2FShanghai)
