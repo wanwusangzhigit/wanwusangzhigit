@@ -35,12 +35,6 @@
 
 # 🚀 Action
 
-<!-- 连续提交代码天数记录 -->
-<p align="center">
-  <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/left-wing.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wanwusangzhigit&theme=dark&hide_border=true" />
-  <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/right-wing.png" />
-</p>
 
 <!-- GitHub奖杯🏆 -->
 <div align="center"><img  src="https://github-profile-trophy-tawny.vercel.app/?username=wanwusangzhigit&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
