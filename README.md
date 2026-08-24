@@ -36,10 +36,6 @@
 # 🚀 Action
 
 
-<!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy-tawny.vercel.app/?username=wanwusangzhigit&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
-<br>
-
 <!-- GitHub数据统计 -->
 <div align="center">
   <img height="137px" src="https://readme-stats-fast.vercel.app/api?username=wanwusangzhigit&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
